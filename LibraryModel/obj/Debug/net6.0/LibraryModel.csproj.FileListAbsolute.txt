@@ -1,0 +1,12 @@
+C:\Master\MediiDeProgramareAvansate\Ispas_Vlad-Traian_Lab7\LibraryModel\bin\Debug\net6.0\LibraryModel.deps.json
+C:\Master\MediiDeProgramareAvansate\Ispas_Vlad-Traian_Lab7\LibraryModel\bin\Debug\net6.0\LibraryModel.dll
+C:\Master\MediiDeProgramareAvansate\Ispas_Vlad-Traian_Lab7\LibraryModel\bin\Debug\net6.0\LibraryModel.pdb
+C:\Master\MediiDeProgramareAvansate\Ispas_Vlad-Traian_Lab7\LibraryModel\obj\Debug\net6.0\LibraryModel.csproj.AssemblyReference.cache
+C:\Master\MediiDeProgramareAvansate\Ispas_Vlad-Traian_Lab7\LibraryModel\obj\Debug\net6.0\LibraryModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Master\MediiDeProgramareAvansate\Ispas_Vlad-Traian_Lab7\LibraryModel\obj\Debug\net6.0\LibraryModel.AssemblyInfoInputs.cache
+C:\Master\MediiDeProgramareAvansate\Ispas_Vlad-Traian_Lab7\LibraryModel\obj\Debug\net6.0\LibraryModel.AssemblyInfo.cs
+C:\Master\MediiDeProgramareAvansate\Ispas_Vlad-Traian_Lab7\LibraryModel\obj\Debug\net6.0\LibraryModel.csproj.CoreCompileInputs.cache
+C:\Master\MediiDeProgramareAvansate\Ispas_Vlad-Traian_Lab7\LibraryModel\obj\Debug\net6.0\LibraryModel.dll
+C:\Master\MediiDeProgramareAvansate\Ispas_Vlad-Traian_Lab7\LibraryModel\obj\Debug\net6.0\refint\LibraryModel.dll
+C:\Master\MediiDeProgramareAvansate\Ispas_Vlad-Traian_Lab7\LibraryModel\obj\Debug\net6.0\LibraryModel.pdb
+C:\Master\MediiDeProgramareAvansate\Ispas_Vlad-Traian_Lab7\LibraryModel\obj\Debug\net6.0\ref\LibraryModel.dll
